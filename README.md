@@ -130,12 +130,15 @@ This solution **improves waste segregation**, **optimizes collection schedules**
 ## 1. Clone the Repository
 
 If you haven't already cloned the repository, run:
-
+- ``` git clone https://github.com/devanshgargofficial/smart-bin-tracker.git```
+- ``` cd smart-bin-tracker```
+<!-- 
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
 git clone https://github.com/devanshgargofficial/SmartBinTracker
 
 cd SmartBinTracker
+-->
 ## 2. Install Dependencies from root
    ```npm install```
 
